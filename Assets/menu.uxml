@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; background-image: url(&quot;project://database/Assets/imgs/jv.jpg?fileID=2800000&amp;guid=72f74754e42c94746a891358b66ad9ec&amp;type=3#jv&quot;); align-items: center; justify-content: flex-start; align-self: center;">
+        <ui:Label tabindex="-1" text="sou o jv e traio minha esposa" parse-escape-sequences="true" display-tooltip-when-elided="true" style="height: 97px; -unity-font: url(&quot;project://database/Assets/Noto_Sans/static/NotoSans-BoldItalic.ttf?fileID=12800000&amp;guid=661757ca6a9abdf428b691d730ea16e0&amp;type=3#NotoSans-BoldItalic&quot;); color: rgb(255, 0, 0); font-size: 60px; align-items: flex-start; align-self: flex-start; justify-content: flex-start;" />
+        <ui:VisualElement style="flex-grow: 1; height: 166px; width: 214px; justify-content: flex-end; bottom: 25px;">
+            <ui:Button text="Trair" parse-escape-sequences="true" display-tooltip-when-elided="true" name="btn_trair" style="height: 71px; top: auto; bottom: auto; width: 213px; justify-content: center; align-items: center; white-space: nowrap; align-self: center; font-size: 30px; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);" />
+            <ui:Button text="Ser fiel" parse-escape-sequences="true" display-tooltip-when-elided="true" name="btn_serfiel" style="height: 71px; top: auto; bottom: auto; width: 213px; justify-content: center; align-items: center; white-space: nowrap; align-self: center; font-size: 30px; color: rgb(255, 0, 0); background-color: rgb(0, 0, 0); margin-top: 10px;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
